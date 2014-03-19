@@ -4,7 +4,7 @@
 
 namespace qh
 {
-    // TODO 将在这里写实现代码
+    // TODO 锟斤拷锟斤拷锟斤拷锟斤拷写实锟街达拷锟斤拷
 
     string::string()
         : data_(NULL), len_(0)
@@ -17,6 +17,7 @@ namespace qh
 
     string::string( const char* s, size_t len )
     {
+        cout<<"hello world"<<endl;
     }
 
     string::string( const string& rhs )
